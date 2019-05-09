@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="textsize_proyectname">24sp</dimen>
+    <dimen name="padding_btnrecargar">15dp</dimen>
+    <dimen name="editText_Size_login">18sp</dimen>
+</resources>

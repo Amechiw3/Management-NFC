@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ManagementNFC</string>
+    <string name="title_activity_referencia">ReferenciaActivity</string>
+    <string name="ProyectoName">Management NFC</string>
+    <string name="btnRecargar"> Recargar </string>
+    <string name="txtSaldo">Saldo</string>
+    <string name="btnConsultar"> Consultar </string>
+    <string name="cargar_saldo">Cargar saldo</string>
+    <string name="consultar_saldo">Consultar_saldo</string>
+</resources>
